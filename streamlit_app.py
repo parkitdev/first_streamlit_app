@@ -1,4 +1,5 @@
 #created forst python file
+import emoji
 import streamlit
 streamlit.title("Vishudh Bhog!")
 streamlit.header("Breakfast menu!")
